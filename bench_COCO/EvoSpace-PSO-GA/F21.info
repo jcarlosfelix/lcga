@@ -1,0 +1,15 @@
+funcId = 21, DIM = 2, Precision = 1.000e-08, algId = 'EvoSpace-PSO-GA'
+% EvoSpace, a Pool Based Algorithm based on the EvoSpace platform and the two algorithms GA and PSO; files not written through standard bbob observer
+F21/1009-00_f21_DIM2.dat, 1:100074|0.0e+00, 2:100035|0.0e+00, 3:100045|0.0e+00, 4:100078|0.0e+00, 5:100091|0.0e+00, 41:100034|0.0e+00, 42:100018|0.0e+00, 43:100061|0.0e+00, 44:100055|0.0e+00, 45:100006|0.0e+00, 46:100078|0.0e+00, 47:100046|0.0e+00, 48:100043|0.0e+00, 49:100081|0.0e+00, 50:100047|0.0e+00
+funcId = 21, DIM = 3, Precision = 1.000e-08, algId = 'EvoSpace-PSO-GA'
+% EvoSpace, a Pool Based Algorithm based on the EvoSpace platform and the two algorithms GA and PSO; files not written through standard bbob observer
+F21/1009-00_f21_DIM3.dat, 1:100096|0.0e+00, 2:100007|0.0e+00, 3:100009|0.0e+00, 4:100093|0.0e+00, 5:100087|0.0e+00, 41:100078|0.0e+00, 42:100077|0.0e+00, 43:100065|0.0e+00, 44:100044|0.0e+00, 45:100039|0.0e+00, 46:100075|0.0e+00, 47:100071|0.0e+00, 48:100006|0.0e+00, 49:100070|0.0e+00, 50:100027|0.0e+00
+funcId = 21, DIM = 5, Precision = 1.000e-08, algId = 'EvoSpace-PSO-GA'
+% EvoSpace, a Pool Based Algorithm based on the EvoSpace platform and the two algorithms GA and PSO; files not written through standard bbob observer
+F21/1009-00_f21_DIM5.dat, 1:100004|1.1e-08, 2:100084|0.0e+00, 3:100078|0.0e+00, 4:100005|1.6e+00, 5:100084|0.0e+00, 41:100076|0.0e+00, 42:100067|0.0e+00, 43:100078|0.0e+00, 44:100060|0.0e+00, 45:100014|9.3e-01, 46:100083|1.6e+00, 47:100002|0.0e+00, 48:100066|0.0e+00, 49:100053|6.9e-01, 50:100068|0.0e+00
+funcId = 21, DIM = 10, Precision = 1.000e-08, algId = 'EvoSpace-PSO-GA'
+% EvoSpace, a Pool Based Algorithm based on the EvoSpace platform and the two algorithms GA and PSO; files not written through standard bbob observer
+F21/1009-00_f21_DIM10.dat, 1:100072|9.4e-01, 2:100135|6.9e-01, 3:100136|5.2e-08, 4:100036|3.2e+00, 5:100126|1.8e+00, 41:100134|2.0e+00, 42:100191|2.3e-08, 43:100023|4.5e-06, 44:100127|3.0e-07, 45:100069|1.6e-05, 46:100131|2.1e-04, 47:100100|8.5e-06, 48:100043|1.8e+00, 49:100039|1.4e-06, 50:100147|6.5e-07
+funcId = 21, DIM = 20, Precision = 1.000e-08, algId = 'EvoSpace-PSO-GA'
+% EvoSpace, a Pool Based Algorithm based on the EvoSpace platform and the two algorithms GA and PSO; files not written through standard bbob observer
+F21/1009-00_f21_DIM20.dat, 1:1000175|2.1e+00, 2:1000034|4.7e+00, 3:1000180|0.0e+00, 4:1000092|1.2e+00, 5:1000143|6.9e-01, 41:1000085|9.3e-01, 42:1000130|2.3e-13, 43:1000120|4.3e-14, 44:1000083|3.6e-15, 45:1000067|0.0e+00, 46:1000029|0.0e+00, 47:1000061|1.2e+00, 48:1000027|0.0e+00, 49:1000189|9.3e-01, 50:1000043|1.8e+00
