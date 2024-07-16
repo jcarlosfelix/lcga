@@ -17,6 +17,7 @@
 4. Test the configuration with the instruction `java -cp classes lifecycle_ga.Test_Configuration`
 5. Test the compilation with the instruction `java -cp classes lifecycle_ga.Test_BenchFunction`
 6. Test the full algorithm with the instruction `java -cp classes lifecycle_ga.Test_RunAlgorithm`
+7. To modify the configuration values, please edit the text file `LCGA_Configuration.txt` in the folder `lcga\algorithm\cfg`
 
 ### Recommended steps to build and run the project on Terminal (Mac):
 
@@ -26,6 +27,7 @@
 4. Test the configuration with the instruction `java -cp classes lifecycle_ga.Test_Configuration`
 5. Test the compilation with the instruction `java -cp classes lifecycle_ga.Test_BenchFunction`
 6. Test the full algorithm with the instruction `java -cp classes lifecycle_ga.Test_RunAlgorithm`
+7. To modify the configuration values, please edit the text file `LCGA_Configuration.txt` in the folder `lcga\algorithm\cfg`
 
 
 ## Description.
