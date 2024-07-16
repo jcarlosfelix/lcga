@@ -1,1 +1,12 @@
+benchmark_function = 1;  //----Bench CEC-2017 functions [0 ... 29]
+dimensions = 30;  //----Bench CEC-2017 dimensions [10, 30, 50, 100]
 
+population = 500;
+sample_size = 20;
+evaluations = 300000;  //----Default (CEC-2017 MaxFES): 10,000 * Dimensions
+mutation_rate = 7;
+max_age = 5;
+
+survive_min = 80;  //----Default: 80 
+survive_max = 100;  //----Default: 100
+pressure = 6.0;  //----Default: 6.0 / Recommended above 3.5 from [1 ... X]

@@ -12,20 +12,20 @@
 ### Recommended steps to build and run the project on Command Prompt (Windows):
 
 1. Clone this repository, and copy-paste to your designated folder. For the following examples we placed it inside the **D: drive**
-2. Open the Command Prompt, and move to the folder with the instruction `cd D:\Documents\GitHub\lcga`
-3. Compile the source code with the instruction `javac -cp lib/commons-math3-3.6.1.jar -d classes src/lcga/*.java`
-4. Test the configuration with the instruction `java -cp "D:\Documents\GitHub\lcga\lib\commons-math3-3.6.1.jar;D:\Documents\GitHub\lcga\classes" lifecycle.Test_Configuration`
-5. Test the compilation with the instruction `java -cp "D:\Documents\GitHub\lcga\lib\commons-math3-3.6.1.jar;D:\Documents\GitHub\lcga\classes" lifecycle.Test_BenchFunction`
-6. Test the full algorithm with the instruction `java -cp "D:\Documents\GitHub\lcga\lib\commons-math3-3.6.1.jar;D:\Documents\GitHub\lcga\classes" lifecycle.Test_RunAlgorithm`
+2. Open the Command Prompt, and move to the folder with the instruction `cd D:\Documents\GitHub\lcga\algorithm`
+3. Compile the source code with the instruction `javac -d classes src/lifecycle_ga/*.java`
+4. Test the configuration with the instruction `java -cp classes lifecycle_ga.Test_Configuration`
+5. Test the compilation with the instruction `java -cp classes lifecycle_ga.Test_BenchFunction`
+6. Test the full algorithm with the instruction `java -cp classes lifecycle_ga.Test_RunAlgorithm`
 
 ### Recommended steps to build and run the project on Terminal (Mac):
 
 1. Clone this repository, and copy-paste to your designated folder. For the following examples we placed it inside **the drive**
 2. Open the Terminal, and move to the folder with the instruction `cd lcga`
-3. Compile the source code with the instruction `javac -cp lib/commons-math3-3.6.1.jar -d classes src/lcga/*.java`
-4. Test the configuration with the instruction `java -cp lib/commons-math3-3.6.1.jar:classes lifecycle.Test_Configuration`
-5. Test the compilation with the instruction `java -cp lib/commons-math3-3.6.1.jar:classes lifecycle.Test_BenchFunction`
-6. Test the full algorithm with the instruction `java -cp lib/commons-math3-3.6.1.jar:classes lifecycle.Test_RunAlgorithm`
+3. Compile the source code with the instruction `javac -d classes src/lifecycle_ga/*.java`
+4. Test the configuration with the instruction `java -cp classes lifecycle_ga.Test_Configuration`
+5. Test the compilation with the instruction `java -cp classes lifecycle_ga.Test_BenchFunction`
+6. Test the full algorithm with the instruction `java -cp classes lifecycle_ga.Test_RunAlgorithm`
 
 
 ## Description.
