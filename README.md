@@ -11,8 +11,8 @@
 
 ### Recommended steps to build and run the project on Command Prompt (Windows):
 
-1. Clone this repository, and copy-paste to your designated folder. For the following examples we placed it inside the **D: drive**
-2. Open the Command Prompt, and move to the folder with the instruction `cd D:\Documents\GitHub\lcga\algorithm`
+1. Clone this repository, and copy-paste to your designated folder. For the following examples we placed it inside the **C: drive**
+2. Open the Command Prompt, and move to the folder with the instruction `cd C:\Documents\GitHub\lcga\algorithm`
 3. Compile the source code with the instruction `javac -d classes src/lifecycle_ga/*.java`
 4. Test the configuration with the instruction `java -cp classes lifecycle_ga.Test_Configuration`
 5. Test the compilation with the instruction `java -cp classes lifecycle_ga.Test_BenchFunction`
